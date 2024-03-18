@@ -1,0 +1,11 @@
+
+API1 
+ 
+RESULTS:
+    {"accountNumber":"BFHL0018629","isSuccess":true}
+    
+
+API2
+ RESULTS:
+   
+     {"totalStocksLeft":999,"shareCertificateNumber":"DMAT1860186085","isSuccess":true}
