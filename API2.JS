@@ -21,7 +21,7 @@ app.post(url ,(req,res) =>{
        "company": "Bajaj Finserv",
        "currentPrice": 6547.95,
        "accountNumber": "BFHL0018629", 
-      "githubRepoLink" : " https://github.com/harshagarwal2003?tab=repositories"
+      "githubRepoLink" : " https://github.com/harshagarwal2003/BAJAJ"
 }
 });
   
