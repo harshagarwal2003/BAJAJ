@@ -19,7 +19,7 @@ app.post(url,(req,res)=>{
      return res.status(200).json({
        "name":"Harsh Agarwal";
        "email":"harsh1924.be21@chitkara.edu.in";
-       "roll-number":2110991924;
+       "rollNumber":2110991924;
        "phone":7817948033;
         
      });
